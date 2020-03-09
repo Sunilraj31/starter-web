@@ -7,3 +7,4 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 line 1 - to remote repo
+line 2 - to remote local repo
